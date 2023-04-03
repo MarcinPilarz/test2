@@ -4,7 +4,7 @@ public class Kwadrat {
 
 	public void obliczPole(int p, int a) {
 		
-	//	p=a^2;
+	//	//p=a^2;
 	
 	}
 }
